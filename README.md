@@ -1,5 +1,5 @@
 # raha-managebac-bruteforce
 
-password finder for managebac.com
+password finder for raha.managebac.com
 
 no malicious intents 
