@@ -1,8 +1,8 @@
-# raha-managebac-bruteforce
+# managebac-password-finder
 
-password finder for raha.managebac.com
+password finder for managebac.com
 
-no malicious intents 
+no malicious intents, only if someone forgets
 
 website [IN BETA]
 http://raha.pizzaroot.comli.com/
